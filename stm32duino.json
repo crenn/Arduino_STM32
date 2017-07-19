@@ -11,7 +11,7 @@
         {
           "name": "Maple and Friends",
           "architecture": "stm32",
-          "version": "R20170323",
+          "version": "20170323",
           "category": "Contributed",
           "help": {
             "online": ""
